@@ -1,7 +1,9 @@
-'''
+#!/usr/bin/python3
+
+"""
 Author: Eshan Singh (R0X4R)
 Version: 1.0
-'''
+"""
 
 #@> IMPORTING MODULES
 import requests
