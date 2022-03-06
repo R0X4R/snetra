@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 '''
 Author: Eshan Singh (R0X4R)
 Version: 1.0
